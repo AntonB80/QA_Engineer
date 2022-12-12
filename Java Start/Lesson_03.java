@@ -1,4 +1,7 @@
 public class Lesson_03 {
+    /**
+     * @param args
+     */
     public static void main(String args[]) {
 
         // Арифметика
@@ -49,7 +52,7 @@ public class Lesson_03 {
         int sum = d + e;
         int multiplication = d * e;
 
-        System.out.println("Sum =" + sum);
+        System.out.println("Sum = " + sum);
         System.out.println("Multiplication =" + multiplication);
 
     }
