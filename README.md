@@ -16,3 +16,8 @@
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
 [Немного OOP](https://github.com/AntonB80/QA_Engineer/tree/main/OOP)<br/>
+[Малость Python](https://github.com/AntonB80/Home-Assistant)<br/> 
+<!---
+Имоджи для Markdown 
+https://github.com/GnuriaN/format-README/blob/master/emoji.md
+-->
