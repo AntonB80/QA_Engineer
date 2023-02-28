@@ -6,7 +6,7 @@
 
 Сейчас нахожусь на таком жизненном этапе, когда хочу заниматься тем, что нравится! :ok_hand: :computer: :star2:
 
-<!---
+<!--
 Имоджи для Markdown 
 https://github.com/GnuriaN/format-README/blob/master/emoji.md
 -->
@@ -23,6 +23,6 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md
 [Немного OOP](https://github.com/AntonB80/QA_Engineer/tree/main/OOP)<br/>
 [Малость Python](https://github.com/AntonB80/Home-Assistant)<br/> 
 
-<!--Reference links in article-->
+<!--Reference links in article/Ссылки в статье-->
 [1]: https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing
 [Bug Report from Mobile Testing]: https://github.com/AntonB80/QA_Engineer/blob/main/exercise_03_mobile_testing/Bug%20Report.pdf
