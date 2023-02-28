@@ -6,6 +6,11 @@
 
 Сейчас нахожусь на таком жизненном этапе, когда хочу заниматься тем, что нравится! :ok_hand: :computer: :star2:
 
+<!---
+Имоджи для Markdown 
+https://github.com/GnuriaN/format-README/blob/master/emoji.md
+-->
+
 ### Тестовая документация.
 
 [Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)<br/>
@@ -17,7 +22,4 @@
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
 [Немного OOP](https://github.com/AntonB80/QA_Engineer/tree/main/OOP)<br/>
 [Малость Python](https://github.com/AntonB80/Home-Assistant)<br/> 
-<!---
-Имоджи для Markdown 
-https://github.com/GnuriaN/format-README/blob/master/emoji.md
--->
+
