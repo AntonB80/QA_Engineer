@@ -10,7 +10,7 @@
 
 [Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)
 
-[Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf)
+[Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:
 
 [Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)
 
