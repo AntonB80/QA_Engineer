@@ -6,10 +6,8 @@
 
 Сейчас нахожусь на таком жизненном этапе, когда хочу заниматься тем, что нравится! :ok_hand: :computer: :star2:
 
-<!--
-Имоджи для Markdown 
-https://github.com/GnuriaN/format-README/blob/master/emoji.md
--->
+<!--Имоджи для Markdown 
+https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 
 ### Тестовая документация QA Engeneer.
 
