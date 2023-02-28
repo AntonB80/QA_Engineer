@@ -16,7 +16,7 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md
 [Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)<br/>
 [Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:<br/>
 [Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)<br/>
-[Mobile Testing](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing)<br/>
+[Mobile Testing][1]<br/>
 [Bug Report from Mobile Testing][]<br/>
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
@@ -24,4 +24,5 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md
 [Малость Python](https://github.com/AntonB80/Home-Assistant)<br/> 
 
 <!--Reference links in article-->
+[1]: https://github.com/AntonB80/QA_Engineer/blob/main/exercise_03_mobile_testing/Bug%20Report.pdf
 [Bug Report from Mobile Testing]: https://github.com/AntonB80/QA_Engineer/blob/main/exercise_03_mobile_testing/Bug%20Report.pdf
