@@ -8,12 +8,8 @@
 
 ### Тестовая документация.
 
-[Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)
-
-[Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:
-
-[Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)
-
-[Mobile Testing](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing)
-
-[SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)
+[Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)<br/>
+[Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:<br/>
+[Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)<br/>
+[Mobile Testing](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing)<br/>
+[SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
