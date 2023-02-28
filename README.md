@@ -5,3 +5,15 @@
 В настоящее время самостоятельно изучаю автоматизацию тестирования: PlayWright, Selenium. Веду относительно здоровый образ жизни. Самостоятельно модернизирую и развиваю систему [умного дома](https://github.com/AntonB80/Home-Assistant) на базе Home Assistant – Open Source решение с использованием языка программирования Python. 
 
 Сейчас нахожусь на таком жизненном этапе, когда хочу заниматься тем, что нравится! :ok_hand: :computer: :star2:
+
+### Тестовая документация.
+
+[Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)
+
+[Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf)
+
+[Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)
+
+[Mobile Testing](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing)
+
+[SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)
