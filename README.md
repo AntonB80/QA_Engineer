@@ -16,7 +16,7 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)<br/>
 [Mobile Testing][1]<br/>
 [Bug Report from Mobile Testing][]<br/>
-[Check List_Tutu.ru Microsoft Excel][2]<br/>
+[Check List_Tutu.ru Microsoft Excel][2]:grimacing:<br/>
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
 [Немного OOP](https://github.com/AntonB80/QA_Engineer/tree/main/OOP)<br/>
