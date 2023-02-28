@@ -11,7 +11,7 @@
 [Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)<br/>
 [Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:<br/>
 [Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)<br/>
-[Mobile Testing](1) <br/>
+[Mobile Testing][1] <br/>
 [SQL](2)<br/>
 
 [1]:(https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing)
