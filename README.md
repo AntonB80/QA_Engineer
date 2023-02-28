@@ -11,7 +11,7 @@
 https://github.com/GnuriaN/format-README/blob/master/emoji.md
 -->
 
-### Тестовая документация.
+### Тестовая документация QA Engeneer.
 
 [Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)<br/>
 [Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:<br/>
