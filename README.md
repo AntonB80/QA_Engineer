@@ -16,6 +16,7 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)<br/>
 [Mobile Testing][1]<br/>
 [Bug Report from Mobile Testing][]<br/>
+[Еще один Bug Report Яндекс Браузера][]<br/>
 [Check List_Tutu.ru Microsoft Excel][2]:grimacing:<br/>
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
@@ -25,4 +26,5 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 <!--Reference links in article/Ссылки в статье-->
 [1]: https://github.com/AntonB80/QA_Engineer/tree/main/exercise_03_mobile_testing
 [Bug Report from Mobile Testing]: https://github.com/AntonB80/QA_Engineer/blob/main/exercise_03_mobile_testing/Bug%20Report.pdf
+[Еще один Bug Report Яндекс Браузера]: https://github.com/AntonB80/QA_Engineer/blob/main/%D0%91%D0%B0%D0%B3-%D0%A0%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0.pdf
 [2]: https://github.com/AntonB80/QA_Engineer/blob/main/check-list_Tutu.ru.xlsx
