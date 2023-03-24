@@ -21,7 +21,7 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Чек-лист на основании таблицы принятий решений][]<br/>
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
-[AutoTesting PlayWright]()<br/>
+[AutoTesting PlayWright][]<br/>
 [Немного OOP](https://github.com/AntonB80/QA_Engineer/tree/main/OOP)<br/>
 [Малость Python](https://github.com/AntonB80/Home-Assistant)<br/> 
 
