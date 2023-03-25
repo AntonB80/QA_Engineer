@@ -14,7 +14,6 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Test Design Techniques](https://github.com/AntonB80/QA_Engineer/blob/main/Test_Design_Techniques.pdf)<br/>
 [Еще немного Test Design](https://github.com/AntonB80/QA_Engineer/blob/main/exercise_05_final.pdf) :grin:<br/>
 [Postman API](https://github.com/AntonB80/QA_Engineer/tree/main/exercise_02_API)<br/>
-Небольшая Postman коллекция с тестами. Здесь изложена суть тестов. [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/24172906-72f9d3c1-0182-408f-a5d5-141ff74a2691?action=collection%2Ffork&collection-url=entityId%3D24172906-72f9d3c1-0182-408f-a5d5-141ff74a2691%26entityType%3Dcollection%26workspaceId%3Df3d8e297-8d97-416f-92f5-c9622e29fb7c)<br/>
 [Mobile Testing][1]<br/>
 [Bug Report from Mobile Testing][]<br/>
 [Еще один Bug Report Яндекс Браузера][]<br/>
