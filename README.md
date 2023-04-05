@@ -19,6 +19,7 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Еще один Bug Report Яндекс Браузера][]<br/>
 [Check List_Tutu.ru Microsoft Excel][2]:grimacing:<br/>
 [Чек-лист на основании таблицы принятий решений][]<br/>
+[Тест-Кейс Вывода средств][]<br/>
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
 [AutoTesting PlayWright][]<br/>
@@ -31,4 +32,5 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Еще один Bug Report Яндекс Браузера]: https://github.com/AntonB80/QA_Engineer/blob/main/%D0%91%D0%B0%D0%B3-%D0%A0%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0.pdf
 [2]: https://github.com/AntonB80/QA_Engineer/blob/main/check-list_Tutu.ru.xlsx
 [Чек-лист на основании таблицы принятий решений]:https://github.com/AntonB80/QA_Engineer/blob/main/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%A1%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx
+[Тест-Кейс Вывода средств]: https://github.com/AntonB80/QA_Engineer/blob/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B8%CC%86%D1%81%20%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2.pdf
 [AutoTesting PlayWright]: https://github.com/AntonB80/QA_Engineer/tree/main/AutoTesting%20PlayWright
