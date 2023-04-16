@@ -20,7 +20,7 @@ https://github.com/GnuriaN/format-README/blob/master/emoji.md-->
 [Check List_Tutu.ru Microsoft Excel][2]:grimacing:<br/>
 [Чек-лист на основании таблицы принятий решений][]<br/>
 [Тест-Кейс Вывода средств][]<br/>
-Еще один небольшой [Чек-лист и Тест-кейс] [] <br/>
+Еще один небольшой [Чек-лист и Тест-кейс][] <br/>
 [SQL](https://github.com/AntonB80/QA_Engineer/tree/main/SQL)<br/>
 [Немного Java](https://github.com/AntonB80/QA_Engineer/tree/main/Java%20Start)<br/>
 [AutoTesting PlayWright][]<br/>
